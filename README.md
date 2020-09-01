@@ -16,3 +16,6 @@ When I click on a `.drum-pad` element, the audio clip contained in its child `au
 When I press the trigger key associated with each `.drum-pad`, the audio clip contained in its child `audio` element should be triggered (e.g. pressing the Q key should trigger the drum pad which contains the string "Q", pressing the W key should trigger the drum pad which contains the string "W", etc.). 
 #### User Story #7:
 When a `.drum-pad` is triggered, a string describing the associated audio clip is displayed as the inner text of the `#display` element (each string must be unique). You can build your project by forking [this CodePen pen](https://codepen.io/freeCodeCamp/pen/MJjpwO). Or you can use this CDN link to run the tests in any environment you like: `https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js` Once you're done, submit the URL to your working project with all its tests passing.</section>
+
+# Audio Samples
+Drum Samples courtesy of [Computer Music Magazine](https://www.musicradar.com/computermusic) via [Music Radar](https://www.musicradar.com/news/drums/1000-free-drum-samples)
